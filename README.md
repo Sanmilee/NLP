@@ -7,7 +7,7 @@ Classification of reviews and sentiments from the Yelp, Airline and IMDB dataset
 ***
 ***
 
-![images1](Images/1.PNG)
+![images1](Images/1.png)
 ![images1](Images/2.PNG)
 ![images1](Images/3.PNG)
 ![images1](Images/4.PNG)
